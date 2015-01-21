@@ -1,0 +1,5 @@
+
+The following line is needed in any .vimrc file on Solaris to make colors work:
+
+
+set term=sun-color
